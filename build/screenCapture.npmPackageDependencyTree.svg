@@ -93,7 +93,7 @@
 <tspan x="10" y="1450">  │ │ │ │ │ ├── is-zip@1.0.0 </tspan>
 <tspan x="10" y="1466">  │ │ │ │ │ ├── stat-mode@0.2.2 </tspan>
 <tspan x="10" y="1482">  │ │ │ │ │ ├── through2@2.0.3 </tspan>
-<tspan x="10" y="1498">  │ │ │ │ │ └─┬ yauzl@2.7.0 </tspan>
+<tspan x="10" y="1498">  │ │ │ │ │ └─┬ yauzl@2.8.0 </tspan>
 <tspan x="10" y="1514">  │ │ │ │ │   ├── buffer-crc32@0.2.13 </tspan>
 <tspan x="10" y="1530">  │ │ │ │ │   └─┬ fd-slicer@1.0.1 </tspan>
 <tspan x="10" y="1546">  │ │ │ │ │     └── pend@1.2.0 </tspan>
